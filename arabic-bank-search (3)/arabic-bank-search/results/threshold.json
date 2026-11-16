@@ -1,0 +1,10 @@
+{
+  "signal": "reranker",
+  "threshold": 0.026752205565571785,
+  "balanced_accuracy": 0.9498484848484849,
+  "in_domain_accepted": 0.93,
+  "ood_rejected": 0.9696969696969697,
+  "reject_threshold": 0.0029636134672910014,
+  "accepted_at_reject": 0.98,
+  "ood_rejected_at_reject": 0.8181818181818182
+}
